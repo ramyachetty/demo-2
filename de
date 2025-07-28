@@ -1,0 +1,145 @@
+[33mcommit 90ae906ee066bdcfe50c31de1769d937450a62ca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature1[m[33m)[m
+Merge: c9a0a16 8f7664a
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 12:19:48 2025 +0530
+
+    Merge branch 'feature1' of https://github.com/rajkushwaha01/demo-2 into feature1
+
+[33mcommit c9a0a161776ad4ed5f24f9e3c1f06b707cd1109d[m
+Merge: d8cfcf4 c9bfb9d
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 12:11:25 2025 +0530
+
+    updated commit
+
+[33mcommit 8f7664ae5b0c1c95b0a4813ec02a172c5c447bd3[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Merge: d8cfcf4 c9bfb9d
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 12:11:25 2025 +0530
+
+    Merge branch 'feature1' of https://github.com/rajkushwaha01/demo-2 into feature1
+
+[33mcommit d8cfcf44d3070520961715510de6eb8eb3bff4d8[m
+Merge: 439a99a 2cc9b76
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 12:06:36 2025 +0530
+
+     updated commit
+
+[33mcommit c9bfb9d2de81b9484bb4fe8db9e77358f3b47a67[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 439a99a 2cc9b76
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 12:06:36 2025 +0530
+
+    Merge branch 'feature1'
+
+[33mcommit 2cc9b76d3271147a6dda0c5ad8e3a5d125a27de3[m
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 12:05:08 2025 +0530
+
+     third
+
+[33mcommit 439a99a722bd765df3cc261a0c41e0f92d7378b4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0622c38 da19d27
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 12:02:44 2025 +0530
+
+    Merge branch 'feature1'
+
+[33mcommit 0622c38467acdc2aacd66eda5b12daf8930259e1[m
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 12:01:11 2025 +0530
+
+    for my file
+
+[33mcommit c32fc663cc1e1dfeace31c8c3c5927697d4d51b2[m
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 11:57:09 2025 +0530
+
+    for second time
+
+[33mcommit da19d27dc3af39904140c71d8afd1a5b9c457ed4[m
+Author: rajkushwaha <rajkush@gmail.com>
+Date:   Mon Jul 28 11:50:08 2025 +0530
+
+    feature 1 ke liye
+
+[33mcommit 6512ef9d521f0bc38b9f88e21d4adb32096a166b[m
+Author: B Ramya <144128529+ramyachetty@users.noreply.github.com>
+Date:   Tue Aug 20 15:08:04 2024 +0530
+
+    Update README.md
+
+[33mcommit 21c34f7d62144ede8830bb7dba8e6eb1d325e569[m
+Author: B Ramya <144128529+ramyachetty@users.noreply.github.com>
+Date:   Wed Aug 14 14:45:49 2024 +0530
+
+    Update README.md
+
+[33mcommit 207fbc667dc1c2506e8edeb4b2a4f898898ab54c[m
+Author: B Ramya <144128529+ramyachetty@users.noreply.github.com>
+Date:   Wed Aug 14 14:43:13 2024 +0530
+
+    Update README.md
+
+[33mcommit 6c52f296d9f945dee186e1375372754bdea53a23[m
+Author: B Ramya <144128529+ramyachetty@users.noreply.github.com>
+Date:   Thu Jul 11 15:08:57 2024 +0530
+
+    Create README.md
+
+[33mcommit 67967762b5427d4de8dfc1ad5a3f7e8ce2796fbd[m
+Author: ramya <ramya123@gmail.com>
+Date:   Tue Jul 9 15:10:47 2024 +0530
+
+     master
+
+[33mcommit 57a6f0f545a1b0957d7769333959042271f493bb[m
+Merge: 0999ae2 7398d92
+Author: ramya <ramya123@gmail.com>
+Date:   Sat Jul 6 15:40:26 2024 +0530
+
+     merge conflict commit
+
+[33mcommit 7398d929144cc47e594977992f07708ab4270605[m
+Author: ramya <ramya123@gmail.com>
+Date:   Sat Jul 6 15:36:45 2024 +0530
+
+     modified in feature
+
+[33mcommit 0999ae2e8a01a72e94b44f2c1e8f626f743ab667[m
+Author: ramya <ramya123@gmail.com>
+Date:   Sat Jul 6 15:35:36 2024 +0530
+
+     modified in master
+
+[33mcommit 6bd4d4fd9086b5426552caeba6f9643ec61f179b[m
+Merge: 9a7607c 0ae00c8
+Author: ramya <ramya123@gmail.com>
+Date:   Fri Jul 5 15:29:20 2024 +0530
+
+    Merge branch 'feature to master'
+
+[33mcommit 9a7607c43f85ae48a425f04d918c48c8257fb655[m
+Author: ramya <ramya123@gmail.com>
+Date:   Fri Jul 5 15:28:18 2024 +0530
+
+     new master commit
+
+[33mcommit 0ae00c892fd7d0e849edbe3cd9287ae95e5146e0[m
+Author: ramya <ramya123@gmail.com>
+Date:   Fri Jul 5 15:26:02 2024 +0530
+
+     feature newfile commit
+
+[33mcommit e5e825c3cdb98bcd1de5a7da2e390a909057fe3e[m
+Author: ramya <ramya123@gmail.com>
+Date:   Thu Jul 4 15:44:01 2024 +0530
+
+     f1 commit
+
+[33mcommit 34db1b3480c81986341883c34087a879d083dcf6[m
+Author: ramya <ramya123@gmail.com>
+Date:   Wed Jul 3 15:40:54 2024 +0530
+
+     2 files commit
